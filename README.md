@@ -5,7 +5,7 @@ I'm Michele Terzo - Frontend Web Developer, currently employed at [OverIT](https
 I'm in love with the IoT and smart devices world and a true believer in FOSS. Also interested in 3D Modeling and 3D printing, game design and game dev.
 
 ### My Skills
-[![My Toolkit](https://skillicons.dev/icons?i=angular,vuejs,tailwindcss,nestjs,electron,docker,firebase,supabase,mongodb,blender,autocad)](https://skillicons.dev)
+[![My Toolkit](https://skillicons.dev/icons?i=angular,vuejs,tailwindcss,nestjs,electron,docker,firebase,supabase,mongodb,blender,autocad,godot)](https://skillicons.dev)
 
 ### Currently learning
 [![Currently learning](https://skillicons.dev/icons?i=golang,sqlite)](https://skillicons.dev)
